@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600&family=Montserrat:wght@600&display=swap');
+/* @import 'normalize.css'; */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: Manrope;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+
+  color: #121417;
+}
+
+.active {
+  border-color: #3470ff;
+  color: #3470ff;
+}
+
+.modal-content {
+  border-radius: 24px;
+}
+
+.divider:before {
+  content: '';
+  border-left: 1px solid rgba(18, 20, 23, 0.1);
+  margin-right: 6px;
+  /* padding-left: 6px; Відстань від початку роздільника до тексту */
+}

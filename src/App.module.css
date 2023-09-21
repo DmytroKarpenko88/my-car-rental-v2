@@ -1,0 +1,11 @@
+.logo {
+  outline: 1px solid black;
+  fill: blue;
+  height: 300px;
+  /* width: 200px; */
+  cursor: pointer;
+}
+
+.logo:hover {
+  fill: red;
+}
