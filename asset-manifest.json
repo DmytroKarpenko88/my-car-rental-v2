@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-car-rental/static/css/main.0eb89a2d.css",
+    "main.js": "/my-car-rental/static/js/main.f34fc452.js",
+    "static/js/403.60a72234.chunk.js": "/my-car-rental/static/js/403.60a72234.chunk.js",
+    "static/js/516.6f4cbb40.chunk.js": "/my-car-rental/static/js/516.6f4cbb40.chunk.js",
+    "static/js/395.2b5072f8.chunk.js": "/my-car-rental/static/js/395.2b5072f8.chunk.js",
+    "static/js/787.c439bef9.chunk.js": "/my-car-rental/static/js/787.c439bef9.chunk.js",
+    "static/js/307.fc5b1128.chunk.js": "/my-car-rental/static/js/307.fc5b1128.chunk.js",
+    "static/media/Ford-Explorer-road-trip-hero.jpg": "/my-car-rental/static/media/Ford-Explorer-road-trip-hero.70cb46684b7cbb70b464.jpg",
+    "static/media/Honda-CR-V-1.webp": "/my-car-rental/static/media/Honda-CR-V-1.66c75671a8eabd637c0c.webp",
+    "index.html": "/my-car-rental/index.html",
+    "main.0eb89a2d.css.map": "/my-car-rental/static/css/main.0eb89a2d.css.map",
+    "main.f34fc452.js.map": "/my-car-rental/static/js/main.f34fc452.js.map",
+    "403.60a72234.chunk.js.map": "/my-car-rental/static/js/403.60a72234.chunk.js.map",
+    "516.6f4cbb40.chunk.js.map": "/my-car-rental/static/js/516.6f4cbb40.chunk.js.map",
+    "395.2b5072f8.chunk.js.map": "/my-car-rental/static/js/395.2b5072f8.chunk.js.map",
+    "787.c439bef9.chunk.js.map": "/my-car-rental/static/js/787.c439bef9.chunk.js.map",
+    "307.fc5b1128.chunk.js.map": "/my-car-rental/static/js/307.fc5b1128.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eb89a2d.css",
+    "static/js/main.f34fc452.js"
+  ]
+}
